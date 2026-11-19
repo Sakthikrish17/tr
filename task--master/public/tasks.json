@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Data Structures Lab Sheet",
+    "category": "Study",
+    "dueDate": "2026-10-18",
+    "status": "Pending"
+  },
+  {
+    "id": 2,
+    "title": "Submit Hostel Mess Fee Receipt",
+    "category": "Personal",
+    "dueDate": "2026-10-20",
+    "status": "Completed"
+  },
+  {
+    "id": 3,
+    "title": "Prepare Slide Deck for Coding Club",
+    "category": "Club",
+    "dueDate": "2026-10-17",
+    "status": "Pending"
+  },
+  {
+    "id": 4,
+    "title": "Revise React Hooks & Context API",
+    "category": "Study",
+    "dueDate": "2026-10-22",
+    "status": "Pending"
+  },
+  {
+    "id": 5,
+    "title": "Weekend Grocery & Room Supplies",
+    "category": "Personal",
+    "dueDate": "",
+    "status": "Pending"
+  }
+]
